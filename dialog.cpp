@@ -40,10 +40,10 @@ Dialog::Dialog(QWidget *parent)
           QString  comanda_vsia="cd /home/viktor/my_projects_qt_2/"+line +
 //" && git init && git add --all && git commit -m \"Описание коммита \" && hub create && hub push origin";
 " && /usr/bin/git init && /usr/bin/git add --all && /usr/bin/git commit -m \"Описание коммита \" && cd /home/viktor/my_projects_qt_2/"+line
-// +" && /usr/bin/hub create && cd /home/viktor/my_projects_qt_2/"+line 
-+"&& git remote add origin https://github.com/tsvigo/"+line
-+ "&& git push origin master";
-// +" && /usr/bin/hub push origin";
+ +" && /usr/bin/hub create && cd /home/viktor/my_projects_qt_2/"+line 
+//+"&& git remote add origin https://github.com/tsvigo/"+line
+//+ "&& git push origin master";
+ +" && /usr/bin/hub push origin";
 // "git remote add origin https://github.com/tsvigo/"+line
 // which git; /usr/bin/git
 // cd /home/viktor/my_projects_qt_2/"+line +
