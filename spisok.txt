@@ -13,8 +13,14 @@ bez_1
 bez_1_GUI
 black_and_white
 build-Avtokopirovanie_GIT-Desktop_Qt_5_12_12_GCC_64bit-Debug
+build-Avtokopirovanie_GIT-Desktop_Qt_5_12_12_GCC_64bit-Profile
+build-Avtokopirovanie_GIT-Desktop_Qt_5_12_12_GCC_64bit-Release
 build-RandomCrosswords-Desktop_Qt_5_12_12_GCC_64bit-Debug
+build-RandomCrosswords-Desktop_Qt_5_12_12_GCC_64bit-Profile
+build-RandomCrosswords-Desktop_Qt_5_12_12_GCC_64bit-Release
 build-checkout_tsikl-Desktop_Qt_5_12_12_GCC_64bit-Debug
+build-checkout_tsikl-Desktop_Qt_5_12_12_GCC_64bit-Profile
+build-checkout_tsikl-Desktop_Qt_5_12_12_GCC_64bit-Release
 checkout_tsikl
 cycle_of_distinguishing_a_one_with_vectors
 cycle_of_distinguishing_a_one_with_vectors_GUI
@@ -31,6 +37,7 @@ spisok_bez_6_simvolov
 test_git
 test_git_2
 test_git_3
+test_git_4
 tsikl_otlicheniya_edinitsi_s_massivami
 tsikl_otlicheniya_edinitsi_s_massivami_2
 tsikl_otlicheniya_edinitsi_s_vektorami
