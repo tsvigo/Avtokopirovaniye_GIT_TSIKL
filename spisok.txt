@@ -30,6 +30,7 @@ programma_raspoznavaniya_zvuka_a
 spisok_bez_6_simvolov
 test_git
 test_git_2
+test_git_3
 tsikl_otlicheniya_edinitsi_s_massivami
 tsikl_otlicheniya_edinitsi_s_massivami_2
 tsikl_otlicheniya_edinitsi_s_vektorami

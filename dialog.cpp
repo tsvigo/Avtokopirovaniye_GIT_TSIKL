@@ -1,3 +1,4 @@
+// Отправление всех репозиториев GIT в Интернет.
 #include "dialog.h"
 #include "ui_dialog.h"
 
