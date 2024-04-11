@@ -38,7 +38,7 @@ Dialog::Dialog(QWidget *parent)
           QString line = in.readLine();
 
           QString  comanda_vsia="cd /home/viktor/my_projects_qt_2/"+line +
-//" && git init && git add --all && git commit -m \"Описание коммита \" && hub create && hub push origin";
+//" && git init && git add --all && git commit -m \"Описание коммита \" && /usr/bin/hub create && /usr/bin/hub push origin";
 " && /usr/bin/git init && /usr/bin/git add --all && /usr/bin/git commit -m \"Описание коммита \" && hub create && hub push origin";
 // which git; /usr/bin/git
 
