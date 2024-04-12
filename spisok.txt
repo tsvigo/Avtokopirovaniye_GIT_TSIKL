@@ -1,5 +1,7 @@
 Avtokopirovanie_GIT
 Avtokopirovaniye_GIT_TSIKL
+Avtokopirovaniye_GIT_TSIKL_and_timer
+Avtokopirovaniye_GIT_TSIKL_and_timer_GUI
 ConsoleApp1
 ConsoleApplication_Klass_Neyron
 Funkciya_podachi_signalov_na_vhod
