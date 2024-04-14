@@ -31,16 +31,19 @@ hello-word
 iz_file_v_massiv
 iz_file_v_massiv_2
 iz_file_v_vektor
+kartinki_iz_shriftov
 new_file
 obrez_snizu
 polniy_obrez
 programma_raspoznavaniya_zvuka_a
+risunki
 spisok_bez_6_simvolov
 test_git
 test_git_2
 test_git_3
 test_git_4
 timer
+tsikl_kartinok_edinits_iz_shriftov
 tsikl_otlicheniya_edinitsi_s_massivami
 tsikl_otlicheniya_edinitsi_s_massivami_2
 tsikl_otlicheniya_edinitsi_s_vektorami
@@ -50,4 +53,3 @@ zapisy_vector_v_file
 zapolnenie_0
 zapolnenie_nejronov_sluchajnymi_nachalnymi_zaryadami_4
 zapolnenie_sinapsov_sluchajnymi_nachalnymi_soprotivleniyami_2
-картинки из шрифтов
