@@ -50,3 +50,4 @@ zapisy_vector_v_file
 zapolnenie_0
 zapolnenie_nejronov_sluchajnymi_nachalnymi_zaryadami_4
 zapolnenie_sinapsov_sluchajnymi_nachalnymi_soprotivleniyami_2
+картинки из шрифтов
