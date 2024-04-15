@@ -32,6 +32,7 @@ iz_file_v_massiv
 iz_file_v_massiv_2
 iz_file_v_vektor
 kartinki_iz_shriftov
+my_scripts_4
 new_file
 obrez_snizu
 polniy_obrez
@@ -48,6 +49,7 @@ tsikl_otlicheniya_edinitsi_s_massivami
 tsikl_otlicheniya_edinitsi_s_massivami_2
 tsikl_otlicheniya_edinitsi_s_vektorami
 tsikl_otlicheniya_edinitsi_s_vektorami_2
+ubraty_odinakovye_fayly
 unsigned_long_long
 zapisy_vector_v_file
 zapolnenie_0
