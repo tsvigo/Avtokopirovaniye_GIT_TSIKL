@@ -50,6 +50,7 @@ tsikl_otlicheniya_edinitsi_s_massivami_2
 tsikl_otlicheniya_edinitsi_s_vektorami
 tsikl_otlicheniya_edinitsi_s_vektorami_2
 ubraty_odinakovye_fayly
+ubraty_odinakovye_fayly_GUI
 unsigned_long_long
 zapisy_vector_v_file
 zapolnenie_0
