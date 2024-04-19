@@ -38,6 +38,7 @@ obrez_snizu
 on_close
 polniy_obrez
 programma_raspoznavaniya_zvuka_a
+qt-unix-signals
 risunki
 spisok_bez_6_simvolov
 test_git
