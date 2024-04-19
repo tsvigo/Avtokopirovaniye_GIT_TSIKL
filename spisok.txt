@@ -35,6 +35,7 @@ kartinki_iz_shriftov
 my_scripts_4
 new_file
 obrez_snizu
+on_close
 polniy_obrez
 programma_raspoznavaniya_zvuka_a
 risunki
