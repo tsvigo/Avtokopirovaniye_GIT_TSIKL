@@ -32,6 +32,7 @@ iz_file_v_massiv
 iz_file_v_massiv_2
 iz_file_v_vektor
 kartinki_iz_shriftov
+max_ploshady
 my_scripts_4
 new_file
 obrez_snizu
