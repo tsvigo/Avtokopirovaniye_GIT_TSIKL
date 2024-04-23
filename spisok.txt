@@ -37,6 +37,7 @@ my_scripts_4
 new_file
 obrez_snizu
 on_close
+paketnoe_masshtabirovanie_kartinok
 polniy_obrez
 programma_raspoznavaniya_zvuka_a
 qt-unix-signals
