@@ -25,6 +25,7 @@ build-checkout_tsikl-Desktop_Qt_5_12_12_GCC_64bit-Debug
 build-checkout_tsikl-Desktop_Qt_5_12_12_GCC_64bit-Profile
 build-checkout_tsikl-Desktop_Qt_5_12_12_GCC_64bit-Release
 checkout_tsikl
+cherrytree-5
 cycle_of_distinguishing_a_one_with_vectors
 cycle_of_distinguishing_a_one_with_vectors_GUI
 free_mesto
