@@ -4,6 +4,7 @@ Avtokopirovaniye_GIT_TSIKL_and_timer
 Avtokopirovaniye_GIT_TSIKL_and_timer_GUI
 ConsoleApp1
 ConsoleApplication_Klass_Neyron
+Edinitsy_iz_shriftov_posle_pereustanovki_Debiana
 Funkciya_podachi_signalov_na_vhod
 Funktsiya_Resheniya_2
 NewRepo-hello-word
