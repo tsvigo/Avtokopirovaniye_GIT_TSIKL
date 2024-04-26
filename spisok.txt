@@ -4,6 +4,7 @@ Avtokopirovaniye_GIT_TSIKL_and_timer
 Avtokopirovaniye_GIT_TSIKL_and_timer_GUI
 ConsoleApp1
 ConsoleApplication_Klass_Neyron
+Edinitsa_vektor_rezerv
 Edinitsy_iz_shriftov_posle_pereustanovki_Debiana
 Funkciya_podachi_signalov_na_vhod
 Funktsiya_Resheniya_2
@@ -12,6 +13,7 @@ RandomCrosswords
 Sgenerirovannye_fayly
 WinFormsApp1
 auto_Funktsiya_podachi_signalov_na_vhod
+avto_Funktsiya_Resheniya_2
 bez_1
 bez_1_GUI
 black_and_white
