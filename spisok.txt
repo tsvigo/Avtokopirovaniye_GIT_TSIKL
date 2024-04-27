@@ -30,6 +30,7 @@ checkout_tsikl
 cherrytree-5
 cycle_of_distinguishing_a_one_with_vectors
 cycle_of_distinguishing_a_one_with_vectors_GUI
+cycle_of_distinguishing_a_one_with_vectors_GUI_2
 free_mesto
 hello-word
 iz_file_v_massiv
