@@ -53,6 +53,7 @@ test_git_2
 test_git_3
 test_git_4
 timer
+tsikl_bez_1_GUI
 tsikl_kartinok_edinits_iz_shriftov
 tsikl_otlicheniya_edinitsi_s_massivami
 tsikl_otlicheniya_edinitsi_s_massivami_2
